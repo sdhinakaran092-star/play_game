@@ -151,3 +151,4 @@ class GameGUI:
 
 if __name__ == "__main__":
     GameGUI(size=4)
+print("welcome")#this is for test purpose
